@@ -1,0 +1,182 @@
+@font-face {
+  font-family: 'KohinoorBangla-Bold';
+  src: url('../fonts/KohinoorBangla-Bold.eot');
+  src: url('../fonts/KohinoorBangla-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/KohinoorBangla-Bold.svg#KohinoorBangla-Bold') format('svg'),
+       url('../fonts/KohinoorBangla-Bold.ttf') format('truetype'),
+       url('../fonts/KohinoorBangla-Bold.woff') format('woff'),
+       url('../fonts/KohinoorBangla-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'KohinoorBangla-Light';
+  src: url('../fonts/KohinoorBangla-Light.eot');
+  src: url('../fonts/KohinoorBangla-Light.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/KohinoorBangla-Light.svg#KohinoorBangla-Light') format('svg'),
+       url('../fonts/KohinoorBangla-Light.ttf') format('truetype'),
+       url('../fonts/KohinoorBangla-Light.woff') format('woff'),
+       url('../fonts/KohinoorBangla-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'KohinoorBangla-Medium';
+  src: url('../fonts/KohinoorBangla-Medium.eot');
+  src: url('../fonts/KohinoorBangla-Medium.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/KohinoorBangla-Medium.svg#KohinoorBangla-Medium') format('svg'),
+       url('../fonts/KohinoorBangla-Medium.ttf') format('truetype'),
+       url('../fonts/KohinoorBangla-Medium.woff') format('woff'),
+       url('../fonts/KohinoorBangla-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Olde-English-Regular';
+  src: url('../fonts/Olde-English-Regular.eot');
+  src: url('../fonts/Olde-English-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Olde-English-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'KohinoorBangla-Regular';
+  src: url('../fonts/KohinoorBangla-Regular.eot');
+  src: url('../fonts/KohinoorBangla-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/KohinoorBangla-Regular.svg#KohinoorBangla-Regular') format('svg'),
+       url('../fonts/KohinoorBangla-Regular.ttf') format('truetype'),
+       url('../fonts/KohinoorBangla-Regular.woff') format('woff'),
+       url('../fonts/KohinoorBangla-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'KohinoorBangla-Semibold';
+  src: url('../fonts/KohinoorBangla-Semibold.eot');
+  src: url('../fonts/KohinoorBangla-Semibold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/KohinoorBangla-Semibold.svg#KohinoorBangla-Semibold') format('svg'),
+       url('../fonts/KohinoorBangla-Semibold.ttf') format('truetype'),
+       url('../fonts/KohinoorBangla-Semibold.woff') format('woff'),
+       url('../fonts/KohinoorBangla-Semibold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'OldeEnglish-Regular';
+  src: url('../fonts/OldeEnglish-Regular.svg#OldeEnglish-Regular') format('svg'),
+       url('../fonts/OldeEnglish-Regular.ttf') format('truetype'),
+       url('../fonts/OldeEnglish-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Durwent';
+  src: url('../fonts/Durwent.eot');
+  src: url('../fonts/Durwent.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Durwent.svg#Durwent') format('svg'),
+       url('../fonts/Durwent.ttf') format('truetype'),
+       url('../fonts/Durwent.woff') format('woff'),
+       url('../fonts/Durwent.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Flaticon;
+  src: url(../fonts/Flaticon.eot);
+  src: url(../fonts/Flaticon.eot?#iefix) format("embedded-opentype"), url(../fonts/Flaticon.woff2) format("woff2"), url(../fonts/Flaticon.woff) format("woff"), url(../fonts/Flaticon.ttf) format("truetype"), url(../fonts/Flaticon.svg#Flaticon) format("svg");
+  font-weight: 400;
+  font-style: normal
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: Flaticon;
+    src: url(../fonts/Flaticon.svg#Flaticon) format("svg")
+  }
+}
+
+[class*=" flaticon-"]:after,
+[class*=" flaticon-"]:before,
+[class^=flaticon-]:after,
+[class^=flaticon-]:before {
+  font-family: Flaticon;
+  font-size: 20px;
+  font-style: normal
+}
+
+.flaticon-facebook:before {
+  content: "\f100"
+}
+
+.flaticon-instagram:before {
+  content: "\f101"
+}
+
+.flaticon-twitter:before {
+  content: "\f102"
+}
+
+.flaticon-mail:before {
+  content: "\f103"
+}
+
+.flaticon-phone-call:before {
+  content: "\f104"
+}
+
+.flaticon-right-arrow:before {
+  content: "\f105"
+}
+
+.flaticon-left-arrow:before {
+  content: "\f106"
+}
+
+.flaticon-leaves:before {
+  content: "\f107"
+}
+
+.flaticon-wood:before {
+  content: "\f108"
+}
+
+.flaticon-forest:before {
+  content: "\f109"
+}
+
+.flaticon-plant:before {
+  content: "\f10a"
+}
+
+.flaticon-brick:before {
+  content: "\f10b"
+}
+
+.flaticon-water:before {
+  content: "\f10c"
+}
+
+.flaticon-comment:before {
+  content: "\f10d"
+}
+
+.flaticon-tree:before {
+  content: "\f10e"
+}
+
+.flaticon-christmas-tree:before {
+  content: "\f10f"
+}
+
+.flaticon-chainsaw:before {
+  content: "\f110"
+}
+
+.flaticon-car:before {
+  content: "\f111"
+}
+
+.flaticon-wood-1:before {
+  content: "\f112"
+}
